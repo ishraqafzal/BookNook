@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "title": "Pride and Prejudice",
+        "description": "A classic novel about the emotional development of Elizabeth Bennet.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-vintage-people-collection_23-2149216032.jpg?t=st=1745334853~exp=1745338453~hmac=ebf4380ab9dcf9b2dca8484adc44bad0e5da6379bc8428ba9dfbe0637342d906&w=900"
+    },
+    {
+        "id": 2,
+        "title": "1984",
+        "description": "A dystopian novel that explores themes of totalitarianism and surveillance.",
+        "price": 12.99,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/premium-photo/eyes-algorithm-digital-rights-ethical-ai_922081-163159.jpg?w=740"
+    },
+    {
+        "id": 3,
+        "title": "Moby Dick",
+        "description": "The narrative of Captain Ahab's obsessive quest to seek revenge on Moby Dick.",
+        "price": 15.50,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-photo/watercolor-whale-illustration_23-2151530673.jpg?t=st=1745337130~exp=1745340730~hmac=26e93cd5c3a7443d735c8c3a8dcacadfd5ee9de132b6ba3a25038004a828c794&w=1380"
+    },
+    {
+        "id": 4,
+        "title": "The Great Gatsby",
+        "description": "A critique of the American Dream set in the Roaring Twenties.",
+        "price": 10.00,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/retro-jazz-restaurant-composition_1284-65185.jpg?t=st=1745336674~exp=1745340274~hmac=a05da96272207f16521dd3b17bc8a10db6f0dd502de2b0b5911b4888fa293239&w=1800"
+    },
+    {
+        "id": 5,
+        "title": "To Kill a Mockingbird",
+        "description": "A novel about racial injustice in the Deep South through the eyes of a child.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawing-illustration-lifestyle-concept_53876-15657.jpg?t=st=1745335655~exp=1745339255~hmac=6f2ad77abf1d48683066d43ae95148a36470077fd3e55352fff66f49b5c0b72b&w=996"
+    },
+    {
+        "id": 6,
+        "title": "The Catcher in the Rye",
+        "description": "A story about teenage angst and alienation narrated by Holden Caulfield.",
+        "price": 11.75,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/schizophrenia-concept-illustration_114360-3753.jpg?t=st=1745335807~exp=1745339407~hmac=a9bb39e00c6b8a9864955557aa854e75365565184f7d1359c20497c62298f583&w=900"
+    },
+    {
+        "id": 7,
+        "title": "Brave New World",
+        "description": "A novel that examines a futuristic society driven by technological and social control.",
+        "price": 9.99,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-photo/digital-art-with-city-architecture-scenery_23-2151065675.jpg?t=st=1745335961~exp=1745339561~hmac=4337b7afbecc21b738900716ad67522916cf48e31c8e68fdfd5f7f94022f48b2&w=1380"
+    },
+    {
+        "id": 8,
+        "title": "Fahrenheit 451",
+        "description": "A dystopian tale where books are banned, and 'firemen' burn them.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-wildfire-illustration_23-2150673317.jpg?t=st=1745336158~exp=1745339758~hmac=1bc6602d48a26dd7998cd01a2cd1d37f7618b799b0adda31892b7132690eaedb&w=900"
+    },
+    {
+        "id": 9,
+        "title": "Jane Eyre",
+        "description": "The story of an orphaned girl who becomes a governess and falls in love with her employer.",
+        "price": 14.20,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/18th-19th-century-old-town-victorian-composition-with-outdoor-landscape-historic-cityscape-characters-people_1284-58558.jpg?t=st=1745336423~exp=1745340023~hmac=ddee96f58cb8fac10ef36fbea66df0bdf21914c2a389e72a8e06922fca5e5dd5&w=1800"
+    },
+    {
+        "id": 10,
+        "title": "Animal Farm",
+        "description": "An allegorical novella that critiques totalitarianism through a farm of talking animals.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/farm-illustration_575670-193.jpg?t=st=1745336592~exp=1745340192~hmac=434dcb89834f0d7789e0f91e4e36b1d4354bc15805bb6501e612540b08b56945&w=1800"
+    },
+    {
+        "id": 11,
+        "title": "Wuthering Heights",
+        "description": "A passionate tale of love and revenge on the Yorkshire moors.",
+        "price": 8.50,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/18th-19th-century-old-town-fashion-composition-with-human-characters-aristocratic-people-vector-illustration_1284-67040.jpg?t=st=1745336633~exp=1745340233~hmac=f897652bacc8c17f257e2dcd761d18962c3bf62ecaa676fff97608abe2d2737f&w=996"
+    },
+    {
+        "id": 12,
+        "title": "The Picture of Dorian Gray",
+        "description": "A story about a man whose portrait ages while he remains young and beautiful.",
+        "price": 19.99,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/premium-photo/portrait-woman-with-white-shirt-white-collar_30489-30668.jpg?w=740"
+    },
+    {
+        "id": 13,
+        "title": "The Odyssey",
+        "description": "An epic poem recounting Odysseus's long journey home after the Trojan War.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-vector/greek-god-goddess-vector-illustration-series-ares-is-greek-god-war-he-is-one-twelve-olympians-son-zeus-hera_24381-1583.jpg?w=740"
+    },
+    {
+        "id": 14,
+        "title": "The Alchemist",
+        "description": "A philosophical story about a shepherd's journey to fulfill his personal legend.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/flat-design-colorful-desert-landscape_23-2149156638.jpg?t=st=1745338287~exp=1745341887~hmac=cdece220dd167fb7c874e186655f128e3425dffe4e93361bf1c5792fe68f599f&w=1380"
+    },
+    {
+        "id": 15,
+        "title": "Les Misérables",
+        "description": "A sweeping tale of justice and redemption in post-revolutionary France.",
+        "price": 22.00,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/victorian-era-street-with-city-houses-gentlemen-ladies-fashionable-crinoline-skirts-carriage-isometric-view_1284-56939.jpg?t=st=1745336699~exp=1745340299~hmac=551360c16b4152ddfb57c878123beca44b8f425e1ec015191ce97c7640d5285b&w=1380"
+    },
+    {
+        "id": 16,
+        "title": "The Brothers Karamazov",
+        "description": "A philosophical novel exploring faith, doubt, and morality.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/domestic-life-illustrated_23-2151876254.jpg?t=st=1745338435~exp=1745342035~hmac=059c6d8e8433e47af9393d656454c03bd66ab2e203d9402ac9ed6b55be3a579a&w=740"
+    },
+    {
+        "id": 17,
+        "title": "Crime and Punishment",
+        "description": "A psychological drama about morality and redemption in St. Petersburg.",
+        "price": 13.25,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/premium-photo/man-holding-gavel-png-justice-scale-transparent-background-remixed-by-rawpixel_53876-1041068.jpg?w=900"
+    },
+    {
+        "id": 18,
+        "title": "Middlemarch",
+        "description": "A complex tale of provincial life and social change in 19th-century England.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/victorian-flat-illustration_1284-73315.jpg?t=st=1745336682~exp=1745340282~hmac=9b07c3abc1b2792876cf1c5188a2738eaee426aff9191fe70b76ed786f88e287&w=1800"
+    }
+]
